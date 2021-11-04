@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eat-your-green/static/css/main.0d7a6edf.chunk.css",
-    "main.js": "/eat-your-green/static/js/main.740ee433.chunk.js",
-    "main.js.map": "/eat-your-green/static/js/main.740ee433.chunk.js.map",
+    "main.js": "/eat-your-green/static/js/main.1f17c718.chunk.js",
+    "main.js.map": "/eat-your-green/static/js/main.1f17c718.chunk.js.map",
     "runtime-main.js": "/eat-your-green/static/js/runtime-main.294c1e27.js",
     "runtime-main.js.map": "/eat-your-green/static/js/runtime-main.294c1e27.js.map",
     "static/css/2.1cb8cf05.chunk.css": "/eat-your-green/static/css/2.1cb8cf05.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.1cb8cf05.chunk.css",
     "static/js/2.8fa29302.chunk.js",
     "static/css/main.0d7a6edf.chunk.css",
-    "static/js/main.740ee433.chunk.js"
+    "static/js/main.1f17c718.chunk.js"
   ]
 }
