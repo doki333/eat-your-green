@@ -1,0 +1,44 @@
+.food {
+  margin: 10px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.food .food__content {
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+  margin-top: 200rem;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.food .food__map {
+  margin-bottom: 30px;
+}
+
+.food__intro {
+  margin: 20px;
+}
+
+.card-body .card-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-body .card-text {
+  font-size: 16px;
+}
+
+.list-group .list-group-item {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.click {
+  display: flex;
+  align-items: center;
+}
