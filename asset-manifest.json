@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eat-your-green/static/css/main.65ad4f4b.chunk.css",
+    "main.css": "/eat-your-green/static/css/main.98a68dd1.chunk.css",
     "main.js": "/eat-your-green/static/js/main.16f056c9.chunk.js",
     "main.js.map": "/eat-your-green/static/js/main.16f056c9.chunk.js.map",
     "runtime-main.js": "/eat-your-green/static/js/runtime-main.294c1e27.js",
@@ -10,7 +10,7 @@
     "static/js/2.ab5a753b.chunk.js.map": "/eat-your-green/static/js/2.ab5a753b.chunk.js.map",
     "index.html": "/eat-your-green/index.html",
     "static/css/2.1cb8cf05.chunk.css.map": "/eat-your-green/static/css/2.1cb8cf05.chunk.css.map",
-    "static/css/main.65ad4f4b.chunk.css.map": "/eat-your-green/static/css/main.65ad4f4b.chunk.css.map",
+    "static/css/main.98a68dd1.chunk.css.map": "/eat-your-green/static/css/main.98a68dd1.chunk.css.map",
     "static/js/2.ab5a753b.chunk.js.LICENSE.txt": "/eat-your-green/static/js/2.ab5a753b.chunk.js.LICENSE.txt",
     "static/media/logo.eefcabce.svg": "/eat-your-green/static/media/logo.eefcabce.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.294c1e27.js",
     "static/css/2.1cb8cf05.chunk.css",
     "static/js/2.ab5a753b.chunk.js",
-    "static/css/main.65ad4f4b.chunk.css",
+    "static/css/main.98a68dd1.chunk.css",
     "static/js/main.16f056c9.chunk.js"
   ]
 }
