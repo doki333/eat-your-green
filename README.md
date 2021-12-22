@@ -6,6 +6,7 @@
 -React.js   
 -react bootstrap
 
+-------
 
 ### Language - Javascript
 
@@ -15,6 +16,8 @@
 -react-js-pagination  
 -react-map-gl  
 -react-mapbox-gl  
+
+--------
 
 ### Usage example   
 <img src="usage example.gif" width="50%" height="40%" title="vegan web app example" alt="example"></img>
