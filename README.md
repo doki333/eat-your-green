@@ -20,7 +20,7 @@
 --------
 
 ### Usage example   
-<img src="usage example.gif" width="50%" height="40%" title="vegan web app example" alt="example"></img>
+<img src="usage example.gif" height="50%" title="vegan web app example" alt="example"></img>
 
 
 ### Major Functions   
