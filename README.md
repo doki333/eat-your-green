@@ -23,5 +23,5 @@ Usage example
 Major Functions   
 1. select vegetarian type
 2. vegetarian introduction
-3. show map and restaurant detailed information
+3. show map and detailed restaurant information
 
