@@ -16,6 +16,9 @@ Dependencies
 -react-map-gl  
 -react-mapbox-gl  
 
+Usage example   
+<img src="usage example.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="example"></img>
+
 
 Major Functions   
 1. select vegetarian type
